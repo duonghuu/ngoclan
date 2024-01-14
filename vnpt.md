@@ -9,3 +9,7 @@ Trên Mobile có thể khi click vào icon hoặc sđt sẽ gọi được ko an
 Khi click “tư vấn” sẽ liên kết đến zalo => em có thể liên kết đến zalo
 
 ![Alt text](https://i.imgur.com/Sf5xjrW.jpeg)
+
+Hotline zalo: trang chi tiết
+
+![Alt text](https://i.imgur.com/sOxKnqe.jpeg)
